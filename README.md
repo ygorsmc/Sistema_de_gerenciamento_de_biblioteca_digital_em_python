@@ -156,22 +156,10 @@ Todas as funções de manipulação de arquivos incluem tratamento de exceções
 - **Caminhos de diretório**: Em sistemas Windows, use barras invertidas (`\`) ou barras normais (`/`). Em sistemas Unix/Linux/Mac, use barras normais (`/`).
 - **Permissões**: Certifique-se de ter permissões adequadas para executar operações nos diretórios especificados.
 
-## 📝 Casos de Uso
-
-Este sistema é ideal para:
-- Organização de bibliotecas digitais
-- Gestão de documentos empresariais
-- Catalogação de arquivos por data
-- Operações batch em múltiplos arquivos
-- Backup e reorganização de arquivos pessoais
 
 ## 🤝 Contribuições
 
 Sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## 📄 Licença
-
-[Especifique a licença do projeto aqui]
 
 ---
 
