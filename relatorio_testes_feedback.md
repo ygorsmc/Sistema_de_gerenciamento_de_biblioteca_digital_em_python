@@ -6,8 +6,8 @@
 **Projeto:** Sistema de Gestão de Arquivos em Python  
 **Versão:** 1.0 (Simplificada)  
 **Data do Relatório:** 03 de novembro de 2025  
-**Responsável:** [Ygor Santos Matos de Carvalho]  
-**Instituição:** [PUCPR]
+**Responsável:** Ygor Santos Matos de Carvalho  
+**Instituição:** PUCPR
 
 ---
 
@@ -37,7 +37,7 @@ Este relatório apresenta os resultados dos testes funcionais realizados no Sist
 - Sistema Operacional: Windows 10/11
 - Python: Versão 3.x
 - Diretório de teste: Criado com 25 arquivos de diferentes extensões e anos
-- Período de testes: [28/10/2025 a 03/11/2025]
+- Período de testes: 28/10/2025 a 03/11/2025
 
 ---
 
