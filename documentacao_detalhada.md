@@ -45,9 +45,11 @@ Este sistema foi desenvolvido em Python para facilitar o gerenciamento de arquiv
 ```
 projeto/
 │
-├── script.py          # Arquivo principal do programa
-├── funcoes.py         # Módulo com funções de manipulação
-└── README.md          # Esta documentação
+├── script.py                       # Arquivo principal do programa
+├── funcoes.py                      # Módulo com funções de manipulação
+├── documentacao_detalhada.md       # Esta documentação
+├── relatorio_testes_feddback.md    # Relatório de testes e feedback dos bibliotecários
+└── README.md                       # Introdução ao projeto
 ```
 
 ### Descrição dos Arquivos
@@ -98,6 +100,8 @@ O menu principal será exibido com as opções de 1 a 7.
 
 **O que faz:**
 Lista todos os arquivos do diretório atual organizados por extensão e ano de modificação, atribuindo um ID único a cada arquivo.
+
+Observação: Deve-se listar os arquivos toda vez antes de realizar qualquer operação para obter os IDs corretos.
 
 **Como usar:**
 1. Digite `1` no menu principal
