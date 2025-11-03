@@ -24,9 +24,11 @@ O projeto está organizado em dois módulos para garantir separação de respons
 ```
 projeto/
 │
-├── funcoes.py      # Módulo com todas as funções de manipulação de arquivos
-├── script.py       # Script principal com a interface CLI
-└── README.md       # Documentação do projeto
+├── funcoes.py                      # Módulo com todas as funções de manipulação de arquivos
+├── script.py                       # Script principal com a interface CLI
+├── documentacao_detalhada.md       # Esta documentação
+├── relatorio_testes_feedback.md    # Relatório de testes e feedback dos bibliotecários
+└── README.md                       # Documentação do projeto
 ```
 
 ### Módulos
