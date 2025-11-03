@@ -746,6 +746,7 @@ else:
 
 
 
+
 “Durante a preparação desta Hora da Prática 2, o(s) autor(es) usaram 
 Claude 4.5 para criar esse relatório com base em testes pessoais e 
 feedback da IA depois do código pronto. Após usar essa ferramenta,
